@@ -9,3 +9,7 @@ Our current goal is to run Study Groups to get more people involved. Later goal 
 ## Join our Slack channel
 
 Please [follow the link](https://join.slack.com/t/kyivhaskell/shared_invite/enQtMjQzMjA1Mjk2ODUwLTJmYjI3YmNmOWYzY2YwYjBlZTNhOTFjZjg1YjA2NjhmNjc5ZTBjYjVhZDk3ODIxNzg4NmFiNzdjMjNhODU5NWU) to join our Slack channel.
+
+## Haskell Study Group
+
+You are welcome to join our [Haskell Study Group](https://github.com/KyivHaskell/haskell-study-startup)
