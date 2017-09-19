@@ -12,4 +12,4 @@ Please [follow the link](https://join.slack.com/t/kyivhaskell/shared_invite/enQt
 
 ## Haskell Study Group
 
-You are welcome to join our [Haskell Study Group](https://github.com/KyivHaskell/haskell-study-startup)
+You are welcome to join our [Haskell Study Group](https://github.com/KyivHaskell/haskell-study-group)
