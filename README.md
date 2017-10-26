@@ -1,4 +1,4 @@
-![KyivHaskell Logo](https://raw.githubusercontent.com/KyivHaskell/KyivHaskell/master/kyiv_haskell.png)
+![KyivHaskell Logo](https://raw.githubusercontent.com/KyivHaskell/KyivHaskell/master/kyiv_haskell_logo.png)
 
 # Kyiv Haskell User Group
 
