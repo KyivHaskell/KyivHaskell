@@ -1,6 +1,6 @@
 ![KyivHaskell Logo](https://raw.githubusercontent.com/KyivHaskell/KyivHaskell/master/kyiv_haskell_logo.png)
 
-# Kyiv Haskell User Group
+# Kyiv Haskell User Group https://mobile.twitter.com/KyivHaskell
 
 The Kyiv Haskell Users Group is for all programmers either interested in or experienced with the Haskell programming language. We want to build a community of Haskell developers in the Kyiv that can share knowledge, projects, and experience.
 
