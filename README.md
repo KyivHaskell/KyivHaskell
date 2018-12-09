@@ -8,9 +8,13 @@ We are a subpart of [Kievfprog](http://kievfprog.net/) community, which has goal
 
 Our current goal is to run Study Groups to get more people involved. Later goal is to add talks, host social hours, code workshops, and a hackathons.
 
-## Join our Slack channel
+## Telegram Groupchats
 
-Please [follow the link](https://join.slack.com/t/kyivhaskell/shared_invite/enQtMjQzMjA1Mjk2ODUwLTJmYjI3YmNmOWYzY2YwYjBlZTNhOTFjZjg1YjA2NjhmNjc5ZTBjYjVhZDk3ODIxNzg4NmFiNzdjMjNhODU5NWU) to join our Slack channel.
+- You are welcome to join our [KyivHaskell](https://t.me/KyivHaskell) and [KyivElm](https://t.me/KyivElm) group chats in Telegram
+
+## Slack channel
+
+We also have a Slack channel. Please [follow the link](https://join.slack.com/t/kyivhaskell/shared_invite/enQtMjQzMjA1Mjk2ODUwLTJmYjI3YmNmOWYzY2YwYjBlZTNhOTFjZjg1YjA2NjhmNjc5ZTBjYjVhZDk3ODIxNzg4NmFiNzdjMjNhODU5NWU) to join it.
 
 ## Twitter
 
