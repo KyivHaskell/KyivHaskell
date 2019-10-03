@@ -11,7 +11,7 @@ Our current goal is to run Study Groups to get more people involved. Later goal 
 ## Slack channels
 
 We also have a Slack channel. Please [follow the
-link](https://join.slack.com/t/kyivhaskell/shared_invite/enQtMjQzMjA1Mjk2ODUwLTJmYjI3YmNmOWYzY2YwYjBlZTNhOTFjZjg1YjA2NjhmNjc5ZTBjYjVhZDk3ODIxNzg4NmFiNzdjMjNhODU5NWU)
+link](https://join.slack.com/t/kyivlambda/shared_invite/enQtMjQzMjA1Mjk2ODUwLTM4MGViMjczNjc3NGFmZDA4NjFlMjNiMzRlOTY5NGQ5MDZhNDhhNDg5NDZhOGE2N2ExN2RiMTI0MzBkMTE3ZTU)
 to join it.
 
 Use channels:
