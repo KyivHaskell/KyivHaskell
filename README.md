@@ -10,9 +10,7 @@ Our current goal is to run Study Groups to get more people involved. Later goal 
 
 ## Slack channels
 
-We also have a Slack channel. Please [follow the
-link](https://join.slack.com/t/kyivlambda/shared_invite/enQtODQ0NDI5NTQ5ODEzLWYxMzczODdjYjY4NmE5OTNhM2JiMzdhNWM2OTY3ZDgwNjYzOGFmMGJiNDY3ZDJhZmE1ZmYyOWU0MzdjMTRkYjA)
-to join it.
+We also have a Slack channel. Please [find the link on KyivLambda page](https://github.com/kyivlambda/kyivlambda.github.io/blob/master/README.md) to join it.
 
 Use channels:
 - #elm-study-group for Elm Study Group
